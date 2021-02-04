@@ -12,10 +12,9 @@ author: Moteele
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Produkt: "produkt"
   O nás: "o-nas"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Kontakt: "kontakt"
 
 # --- Logo --- #
 
@@ -86,7 +85,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "zemědělství, agriculture, farming, farmer, statek, ovce, krávy, dobytek, vlk, vlci, kozy, ohrada, ohradník, technologie"
 
 # --- Colours / background image --- #
 
@@ -175,7 +174,7 @@ footer-link-col: "#404040"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d. %m. %Y"
 
 # Facebook App ID
 #fb_app_id: ""

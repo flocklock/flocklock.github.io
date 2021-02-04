@@ -10,5 +10,6 @@ FlockLock je začínající projekt hromádky mladých nadšenců. Chceme pomoct
 * Adam - Člověk s čísly. Ekonom, trol a stonksman.
 * Nela - Člověk s láskou. Zajištujě PR se zvířaty.
 * Hynek - Člověk s drátama. Inženýr letadel i kravského příslušenství.\\
+\\
 _Kulak is not dead!_
 
