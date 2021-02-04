@@ -12,7 +12,7 @@ author: Moteele
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  O nás: "aboutme"
+  O nás: "o-nas"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -24,7 +24,7 @@ navbar-links:
 avatar: "/assets/img/FLOCKLOCK_LOGO.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -218,10 +218,12 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
