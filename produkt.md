@@ -15,3 +15,5 @@ Díky sledování fyziologických funkcí lze sestavovat zdravotní profily jedn
 Naše značky umožňují elektronickou identifikaci pomocí RFID technologie. Lze tak například stádo rychleji počítat.
 ## Mobilní a webová aplikace
 Výsledky všech výše zmíněných funkcí má sedlák vždy živě k dispozici ve své mobilní aplikaci. Může tak sledovat polohu svého stáda přímo na mapě. Zároveň je upozorňován na jakékoli potíže se stádem nebo zdravotním stavem jednotlivých zvířat.
+## Další výhody
+Umíme rozpoznat období březosti zvířat, umíme upozornit farmáře na otelení krávy, umíme předcházet krádeži dobytka a mnoho dalšího.
