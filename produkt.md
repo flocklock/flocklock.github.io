@@ -3,6 +3,7 @@ layout: page
 title: Produkt
 ---
 FlockLock vytváří chytré ušní známky pro skot i brav. Hlavními funkcemi našich známek je monitoring zdravotního stavu zvířat, sledování jejich polohy a ochrana před predátory, zejména před vlkem. Data jsou vyhodnocována algoritmicky za pomocí strojového učení.
+![ekosystém známky](/assets/img/infografika.png){: .mx-auto.d-block :}
 ## Ochrana před predátory
 Z živého sledování fyziologických funkcí jako je třeba frekvence srdečného rytmu lze rozpoznat, zda-li jsou zvířata ve stresu. Při sledování více zvířat najednou a vyhodnocování hodnot za pomocí strojového učení je možné často určit i přesnější zdroj stresu. Statkář nebo pastevecký pes tak může zasáhnout v případě ohrožení predátorem. Věříme, že naše ušní známky pomohou zabránit větším škodám při útoku předátora a ideálně mu úplně předejít.
 ## Sledování polohy
