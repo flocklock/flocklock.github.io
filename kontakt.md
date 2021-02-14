@@ -2,5 +2,5 @@
 layout: page
 title: Kontakt
 ---
-**email:** [flocklock@seznam.cz](mailto:flocklock@seznam.cz)\
+**email:** [info@flocklock.cz](mailto:info@flocklock.cz)\
 **tel:** +420 733 210 178
