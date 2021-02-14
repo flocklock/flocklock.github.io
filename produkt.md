@@ -18,3 +18,4 @@ Naše značky umožňují elektronickou identifikaci pomocí RFID technologie. L
 Výsledky všech výše zmíněných funkcí má sedlák vždy živě k dispozici ve své mobilní aplikaci. Může tak sledovat polohu svého stáda přímo na mapě. Zároveň je upozorňován na jakékoli potíže se stádem nebo zdravotním stavem jednotlivých zvířat.
 ## Další výhody
 Umíme rozpoznat období březosti zvířat, umíme upozornit farmáře na otelení krávy, umíme předcházet krádeži dobytka a mnoho dalšího.
+![vizualizace modelu známky](/assets/img/znamka_model.png 'vizualizace modelu známky'){: .mx-auto.d-block :}
