@@ -88,7 +88,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "zemědělství, agriculture, farming, farmer, statek, ovce, krávy, dobytek, vlk, vlci, kozy, ohrada, ohradník, technologie"
+keywords: "zemědělství, agriculture, farming, farmer, statek, ovce, kráva, krávy, dobytek, vlk, vlci, koza, kozy, ohrada, ohradník, technologie"
 
 # --- Colours / background image --- #
 
@@ -124,6 +124,9 @@ footer-link-col: "#404040"
 #  - "/assets/js/custom-script.js"
 
 # --- Web Analytics Section --- #
+webmaster_verifications:
+  google: IByYnPtuN_yoOV3FfcljmUBLbcJgvQlPX2EZwFq3pzQ
+  yandex: 07ebcb165ad76b2f
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
